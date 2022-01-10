@@ -67,8 +67,8 @@ print(value)
 ~~~
 
 ## Output:
-[!output](https://github.com/RanjithD18/Sorting-Algorithm/blob/main/Screenshot%20(55).png?raw=true)
-[!output](https://github.com/RanjithD18/Sorting-Algorithm/blob/main/Screenshot%20(56).png?raw=true)
+(!output)[https://github.com/RanjithD18/Sorting-Algorithm/blob/main/Screenshot%20(55).png]
+(!output)[https://github.com/RanjithD18/Sorting-Algorithm/blob/main/Screenshot%20(56).png]
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
